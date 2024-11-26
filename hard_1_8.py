@@ -19,4 +19,3 @@ while i < len(grades):
     grades_of_student[name] = average
 
 print(grades_of_student)
-
